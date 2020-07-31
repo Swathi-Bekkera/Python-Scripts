@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # Query Insight and list windows servers and owners
-# 20200710 - Uddeep - initial version
+# initial version
 ######
 
 import requests
